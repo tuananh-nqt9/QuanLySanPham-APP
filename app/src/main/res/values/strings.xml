@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quản lý Sản phẩm</string>
+    <string name="add_product">Thêm sản phẩm</string>
+    <string name="product_id">Mã SP</string>
+    <string name="product_name">Tên SP</string>
+    <string name="product_price">Giá</string>
+    <string name="product_quantity">Số lượng</string>
+    <string name="total_amount">Tổng tiền: </string>
+    <string name="highest_price_product">Sản phẩm giá cao nhất:</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+</resources>
